@@ -1,8 +1,12 @@
 ---
-title: "Hi all! I'm OOOOOO👋🏻"
+title: "Hi all! I'm Ebra 😎"
 permalink: /about/
 layout: single
 comments: false
 ---
 
-본인 소개 여기에 입력
+![profile image](/assets/images/profilemimg.png)
+
+- **Location:** Seoul, Korea
+- **GitHub:** [EbraLim](https://github.com/ebralim)
+- **Email:** [dlagustn1203@gmail.com](mailto:dlagustn1203@gmail.com)
